@@ -5,7 +5,7 @@ Utilities for the deployment of RoboFish, a robotic fish which can interact with
 Scripts for controling pump mechanism and making RoboFish more realistic.
 
 Parts used:
-- ESP32 WROOM-32
+- ESP32 WROOM-32 Microcontroller
 - TB6612 Dual DC/Stepper Driver
 - 12V Peristaltic Pump
 
