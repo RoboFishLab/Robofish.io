@@ -8,5 +8,7 @@ Parts used:
 - ESP32 WROOM-32 Microcontroller
 - TB6612 Dual DC/Stepper Driver
 - 12V Peristaltic Pump
+- 5V External Power Source
+- 12V External Power Source
 
 Main Contributions done by F.Francisco and D. Bierbach
