@@ -11,4 +11,9 @@ Parts used:
 - 5V External Power Source
 - 12V External Power Source
 
+## Notebooks
+Directory contains Jupyter Notebooks for calibration and data analysis
+
 Main Contributions done by F.Francisco and D. Bierbach
+
+
