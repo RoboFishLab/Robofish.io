@@ -2,7 +2,7 @@
 Utilities for the deployment of RoboFish, a robotic fish which can interact with it's conspecifics. 
 
 ## Arduino
-Scripts for controling pump mechanism and making RoboFish more realistic.
+Scripts for controling the pump mechanism and making RoboFish more realistic.
 
 Parts used:
 - ESP32 WROOM-32 Microcontroller
