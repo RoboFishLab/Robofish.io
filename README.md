@@ -6,7 +6,7 @@ Scripts for controling the pump mechanism and making RoboFish more realistic.
 
 Parts used:
 - ESP32 WROOM-32 Microcontroller
-- TB6612 Dual DC/Stepper Driver
+- TB6612 Dual DC/Stepper Motor Driver
 - 12V Peristaltic Pump
 - 5V External Power Source
 - 12V External Power Source
