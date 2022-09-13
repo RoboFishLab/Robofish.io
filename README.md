@@ -2,7 +2,7 @@
 Utilities for the deployment of RoboFish, a robotic fish which can interact with it's conspecifics. 
 
 ## Arduino
-Arduino IDE scripts for controling the pump mechanism and making RoboFish more realistic.
+[Arduino IDE](https://www.arduino.cc/en/software) scripts for controling the pump mechanism and making RoboFish more realistic.
 
 Parts used:
 - ESP32 WROOM-32 Microcontroller
@@ -12,7 +12,7 @@ Parts used:
 - 12V External Power Source
 
 ## Notebooks
-Directory contains Jupyter Notebooks for calibration and data analysis
+Directory contains [Jupyter Notebooks](https://jupyter.org/) for calibration and data analysis
 
 ## Requirements for RoboTracker 
 Currently only Linux is supported
