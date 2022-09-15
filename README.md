@@ -1,6 +1,9 @@
 # Robofish.io
 Utilities for the deployment of RoboFish, a robotic fish which can interact with it's conspecifics. 
 
+## ```Documentation```
+All documentation regarding setup and implementation
+
 ## ```Arduino```
 [Arduino IDE](https://www.arduino.cc/en/software) scripts for controling the pump mechanism and making RoboFish more realistic.
 
